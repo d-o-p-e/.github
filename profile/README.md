@@ -25,13 +25,12 @@ e-mail : woojin8787@gmail.com
 
 <b>브레이킹 - 특별한 뉴스 제보 서비스</b>
 - 2022.06.15 ~ 2022.08.31
-- Repo:
-  - front :
-  - back : 
-  - Android :
-  - iOS :
+- Repo: https://github.com/Breaking-Dope
+- back, front, Android
+- 7 members
 
 <b>타임머신 편지</b>
 - 2022.03.12 ~ 2022.06.14
 - Repo : https://github.com/d-o-p-e/time-machine-letter
 - Front, Back, iOS
+- 3 members
