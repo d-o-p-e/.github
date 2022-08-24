@@ -3,6 +3,22 @@
 
 e-mail : woojin8787@gmail.com
 
+
+## 프로젝트
+
+<b>브레이킹 - 특별한 뉴스 제보 서비스</b>
+- 2022.06.15 ~ 2022.08.31
+- Repo: https://github.com/Breaking-Dope
+- back, front, Android
+- 7 members
+
+<b>타임머신 편지</b>
+- 2022.03.12 ~ 2022.06.14
+- Repo : https://github.com/d-o-p-e/time-machine-letter
+- Front, Back, iOS
+- 3 members
+
+
 ## 이 팀은 무엇을 하나요?
 
 매 학기, 방학마다 새로운 프로젝트를 진행합니다.
@@ -20,17 +36,3 @@ e-mail : woojin8787@gmail.com
 - 엄격한 코드리뷰.
 - git을 적극 활용한 체계적인 협업 방식.
 - 타 포지션과의 소통 / 협업
-
-## 프로젝트
-
-<b>브레이킹 - 특별한 뉴스 제보 서비스</b>
-- 2022.06.15 ~ 2022.08.31
-- Repo: https://github.com/Breaking-Dope
-- back, front, Android
-- 7 members
-
-<b>타임머신 편지</b>
-- 2022.03.12 ~ 2022.06.14
-- Repo : https://github.com/d-o-p-e/time-machine-letter
-- Front, Back, iOS
-- 3 members
