@@ -3,6 +3,11 @@
 
 e-mail : woojin8787@gmail.com
 
+## 스터디
+<b>자바 스프링 취업 스터디</b>
+- 2022.03.06 ~ 2022.06.04
+- Java, Spring, JPA, 디자인패턴, CS 전공지식, 알고리즘
+- 3 members
 
 ## 프로젝트
 
