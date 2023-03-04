@@ -10,11 +10,11 @@ e-mail : woojin8787@gmail.com
 - 3 members
 
 <b>Real MySQL 북스터디</b>
-- 2022.03.06 ~ 
-- JPA 와 함께 읽어보는 Real MySQL
-- 모집중
+- 2022.03.17 ~ 
+- Real MySQL 완전개정판 1권
+- 4 members
 
-## 프로젝트
+## 토이 프로젝트
 
 <b>브레이킹 - 특별한 뉴스 제보 서비스</b>
 - 2022.06.15 ~ 2022.08.31
