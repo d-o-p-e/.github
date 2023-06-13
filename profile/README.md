@@ -27,6 +27,12 @@ e-mail : woojin8787@gmail.com
 
 ## 토이 프로젝트
 
+<b>갓생 - MSA 프로젝트</b>
+- 2023.05.01 ~ 2022.05.28
+- Repo: https://github.com/d-o-p-e/tg-msa-service / https://github.com/d-o-p-e/tg-infrastructure / https://github.com/d-o-p-e/tg-web-app / 
+- back, front, Android
+- 7 members
+
 <b>브레이킹 - 특별한 뉴스 제보 서비스</b>
 - 2022.06.15 ~ 2022.08.31
 - Repo: https://github.com/Breaking-Dope
