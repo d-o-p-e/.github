@@ -14,9 +14,15 @@ e-mail : woojin8787@gmail.com
 - Java, Spring, JPA, 디자인패턴, CS 전공지식, 알고리즘
 - 4 members
 
-<b>Real MySQL 북스터디</b>
-- 2022.03.18 ~ 
+<b>Real MySQL 북스터디 1권</b>
+- 2022.03.18
 - Real MySQL 완전개정판 1권
+- 4 members
+
+
+<b>Real MySQL 북스터디 2권</b>
+- 2022.07.01
+- Real MySQL 완전개정판 2권
 - 4 members
 
 ## 토이 프로젝트
